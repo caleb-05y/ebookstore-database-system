@@ -62,5 +62,5 @@ The system is built with clean modular functions and follows best practices for 
 2. Navigate to the project folder:
    cd ebookstore-database
 
-3.Run the application:
+3. Run the application:
    python ebookstore.py
